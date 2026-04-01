@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou Henrique
 
-<!--
-**henriquemarx/henriquemarx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição para Analista de Dados
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projetos
+
+- 📊 [Análise de Vendas Completa](https://github.com/henriquemarx/analise_vendas_completa)
+- 📈 [Análise de Vendas](https://github.com/henriquemarx/analise-vendas)
+
+---
+
+## 🛠️ Tecnologias
+
+- Python
+- Pandas
+- SQL (em aprendizado)
+- Power BI (em aprendizado)
+
+---
+
+## 📚 Atualmente estudando
+
+- SQL (JOIN, SUBQUERY, CTE)
+- Power BI
+- Análise de dados
+
+---
+
+## 🎯 Objetivo
+
+Conseguir minha primeira oportunidade como Analista de Dados
