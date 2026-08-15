@@ -1,56 +1,110 @@
-# 👋 Olá, eu sou Henrique
+# 👋 Olá, eu sou Henrique Marques
 
-🎯 Em transição para Analista de Dados | Focado em SQL, Power BI, Python e Análise de Dados
+🎯 Em transição para a área de Dados | Focado em SQL, Power BI, Python e Análise de Dados
+
+Sou estudante autodidata de Análise de Dados e venho desenvolvendo projetos práticos utilizando SQL, Power BI e Python. Meu objetivo é transformar dados em informações úteis para apoiar a tomada de decisões e conquistar minha primeira oportunidade como Analista de Dados Júnior.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-* 📊 [Dashboard de Análise de Vendas (Power BI + Python)](https://github.com/henriquemarx/dashboard-analise-vendas)
-* 📊 [Análise de Vendas com SQL e Power BI](https://github.com/henriquemarx/analise-vendas-sql-powerbi)
-* 📊 [Análise de Vendas Completa](https://github.com/henriquemarx/analise_vendas_completa)
-* 📈 [Análise de Vendas (Projeto Base)](https://github.com/henriquemarx/analise-vendas)
+- 📊 Dashboard de Análise de Vendas (Power BI + Python)
+- 📊 Análise de Vendas com SQL e Power BI
+- 📊 Análise de Dados com Banco Sakila (SQL + Power BI)
+- 📈 Projeto de Análise Exploratória de Dados
 
 ---
 
 ## 🛠️ Tecnologias
 
-* SQL (Consultas, JOINs, Agregações, CTEs)
-* Power BI (Dashboards e Modelagem de Dados)
-* Python (Pandas, Matplotlib)
-* Git & GitHub
+### Banco de Dados
+- SQL
+- MySQL
+- DB Fiddle
+
+### Visualização de Dados
+- Power BI
+- Excel
+
+### Programação
+- Python
+- Pandas
+- Matplotlib
+
+### Controle de Versão
+- Git
+- GitHub
 
 ---
 
-## 📊 O que eu já sei fazer
+## 📊 Habilidades Desenvolvidas
 
-* Limpeza e tratamento de dados com Python (Pandas)
-* Análises exploratórias e geração de insights
-* Criação de dashboards interativos no Power BI
-* Consultas SQL com agregações e joins
-* Visualização de dados com gráficos (Matplotlib)
+### SQL
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY
+- HAVING
+- JOINs
+- CASE WHEN
+- SUM
+- COUNT
+- AVG
+- ROUND
+- Subqueries
+
+### Power BI
+- Importação e transformação de dados
+- Criação de dashboards
+- Gráficos e indicadores
+- Cartões de métricas (KPIs)
+- Filtros e segmentações
+- Modelagem básica de dados
+
+### Python
+- Manipulação de dados com Pandas
+- Limpeza de dados
+- Análise exploratória
+- Criação de gráficos
+- Exportação de dados para análise
 
 ---
 
-## 📈 Exemplos de análises que já desenvolvi
+## 📈 Análises que já desenvolvi
 
-* Faturamento total, médio e por período
-* Dias de maior e menor venda
-* Produtos mais vendidos
-* Análise de desempenho por tempo
-* Criação de gráficos para tomada de decisão
-
----
-
-## 📚 Atualmente estudando
-
-* SQL avançado (Subqueries, Window Functions)
-* Modelagem de dados no Power BI
-* Storytelling com dados
-* Melhoria de dashboards profissionais
+- Faturamento total
+- Ticket médio
+- Quantidade de clientes
+- Quantidade de vendas
+- Ranking de produtos
+- Ranking de clientes
+- Tendências de vendas
+- Comparação de desempenho entre períodos
+- Dashboards para acompanhamento de indicadores
 
 ---
 
-## 🎯 Objetivo
+## 📚 Atualmente Estudando
 
-Conquistar minha primeira oportunidade como **Analista de Dados Júnior**, aplicando na prática minhas habilidades em análise, visualização e tratamento de dados, e evoluindo constantemente na área.
+- SQL Intermediário e Avançado
+- Power BI Avançado
+- DAX
+- Storytelling com Dados
+- Estatística para Análise de Dados
+
+---
+
+## 🎯 Objetivo Profissional
+
+Busco minha primeira oportunidade como **Analista de Dados Júnior**, onde eu possa aplicar meus conhecimentos em SQL, Power BI e Python, continuar aprendendo com profissionais experientes e contribuir para a geração de valor através dos dados.
+
+---
+
+## 📫 Contato
+
+- GitHub: https://github.com/henriquemarx
+- LinkedIn: https://www.linkedin.com/in/henrique-de-azeredo-marques-27a879252/
+
+---
+
+⭐ Estou sempre estudando, desenvolvendo projetos e buscando evoluir na área de Dados.
