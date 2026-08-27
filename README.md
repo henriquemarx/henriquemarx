@@ -1,110 +1,163 @@
 # 👋 Olá, eu sou Henrique Marques
 
-🎯 Em transição para a área de Dados | Focado em SQL, Power BI, Python e Análise de Dados
+### 🎯 Em transição para a área de Dados | SQL • Power BI • Python
 
-Sou estudante autodidata de Análise de Dados e venho desenvolvendo projetos práticos utilizando SQL, Power BI e Python. Meu objetivo é transformar dados em informações úteis para apoiar a tomada de decisões e conquistar minha primeira oportunidade como Analista de Dados Júnior.
+Sou estudante de **Análise de Dados** e venho desenvolvendo projetos práticos para aprimorar minhas habilidades em **SQL, Power BI, Python e Pandas**.
+
+Meu objetivo é transformar dados em informações relevantes para apoiar a tomada de decisões e conquistar minha primeira oportunidade como **Analista de Dados Júnior**.
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-- 📊 Dashboard de Análise de Vendas (Power BI + Python)
-- 📊 Análise de Vendas com SQL e Power BI
-- 📊 Análise de Dados com Banco Sakila (SQL + Power BI)
-- 📈 Projeto de Análise Exploratória de Dados
+### 📊 Sakila Business Intelligence
+
+**MySQL + SQL + Power BI**
+
+Projeto de Business Intelligence desenvolvido utilizando o banco de dados Sakila.
+
+Principais análises:
+
+* 💰 Faturamento total
+* 📈 Faturamento mensal
+* 🎬 Filmes mais alugados
+* 💵 Filmes com maior faturamento
+* 👥 Análise por cliente
+* 🌎 Análise por cidade
+* 🎟️ Ticket médio
+* 📊 Indicadores de desempenho
+
+🔗 [Ver projeto no GitHub](https://github.com/henriquemarx/sakila-business-intelligence)
+
+---
+
+### 📊 Dashboard de Análise de Vendas
+
+**Power BI + Python**
+
+Dashboard desenvolvido para análise de vendas e acompanhamento de indicadores de desempenho.
+
+---
+
+### 📊 Análise de Vendas com SQL e Power BI
+
+**SQL + Power BI**
+
+Projeto voltado para exploração de dados, criação de consultas SQL e desenvolvimento de indicadores no Power BI.
+
+---
+
+### 📈 Projeto de Análise Exploratória de Dados
+
+**Python + Pandas + Matplotlib**
+
+Projeto focado em limpeza, exploração e visualização de dados utilizando Python.
 
 ---
 
 ## 🛠️ Tecnologias
 
-### Banco de Dados
-- SQL
-- MySQL
-- DB Fiddle
+### 🗄️ Banco de Dados
 
-### Visualização de Dados
-- Power BI
-- Excel
+* SQL
+* MySQL
+* DB Fiddle
 
-### Programação
-- Python
-- Pandas
-- Matplotlib
+### 📊 Visualização de Dados
 
-### Controle de Versão
-- Git
-- GitHub
+* Power BI
+* Excel
+
+### 🐍 Programação e Análise
+
+* Python
+* Pandas
+* Matplotlib
+
+### 🔧 Controle de Versão
+
+* Git
+* GitHub
 
 ---
 
 ## 📊 Habilidades Desenvolvidas
 
 ### SQL
-- SELECT
-- WHERE
-- ORDER BY
-- GROUP BY
-- HAVING
-- JOINs
-- CASE WHEN
-- SUM
-- COUNT
-- AVG
-- ROUND
-- Subqueries
+
+* SELECT
+* WHERE
+* ORDER BY
+* GROUP BY
+* HAVING
+* INNER JOIN
+* LEFT JOIN
+* CASE WHEN
+* SUM
+* COUNT
+* AVG
+* ROUND
+* Subqueries
+* Funções de data
+* Agregação e análise de dados
 
 ### Power BI
-- Importação e transformação de dados
-- Criação de dashboards
-- Gráficos e indicadores
-- Cartões de métricas (KPIs)
-- Filtros e segmentações
-- Modelagem básica de dados
+
+* Importação e transformação de dados
+* Modelagem básica de dados
+* Criação de dashboards
+* Criação de KPIs
+* Gráficos e visualizações
+* Filtros e segmentações
+* Criação de medidas com DAX
 
 ### Python
-- Manipulação de dados com Pandas
-- Limpeza de dados
-- Análise exploratória
-- Criação de gráficos
-- Exportação de dados para análise
+
+* Manipulação de dados com Pandas
+* Limpeza e tratamento de dados
+* Análise exploratória
+* Criação de visualizações
+* Exportação de dados para análise
 
 ---
 
 ## 📈 Análises que já desenvolvi
 
-- Faturamento total
-- Ticket médio
-- Quantidade de clientes
-- Quantidade de vendas
-- Ranking de produtos
-- Ranking de clientes
-- Tendências de vendas
-- Comparação de desempenho entre períodos
-- Dashboards para acompanhamento de indicadores
+* Faturamento total
+* Ticket médio
+* Quantidade de clientes
+* Quantidade de vendas e locações
+* Ranking de produtos e filmes
+* Ranking de clientes
+* Tendências de vendas
+* Comparação de desempenho entre períodos
+* Análise de faturamento
+* Dashboards para acompanhamento de indicadores
 
 ---
 
 ## 📚 Atualmente Estudando
 
-- SQL Intermediário e Avançado
-- Power BI Avançado
-- DAX
-- Storytelling com Dados
-- Estatística para Análise de Dados
+* SQL Intermediário e Avançado
+* Power BI
+* DAX
+* Storytelling com Dados
+* Estatística para Análise de Dados
+* Modelagem de Dados
 
 ---
 
 ## 🎯 Objetivo Profissional
 
-Busco minha primeira oportunidade como **Analista de Dados Júnior**, onde eu possa aplicar meus conhecimentos em SQL, Power BI e Python, continuar aprendendo com profissionais experientes e contribuir para a geração de valor através dos dados.
+Busco minha primeira oportunidade como **Analista de Dados Júnior**, onde possa aplicar meus conhecimentos em SQL, Power BI e Python, desenvolver novas habilidades e contribuir para a geração de valor através dos dados.
 
 ---
 
 ## 📫 Contato
 
-- GitHub: https://github.com/henriquemarx
-- LinkedIn: https://www.linkedin.com/in/henrique-de-azeredo-marques-27a879252/
+* 💻 GitHub: [github.com/henriquemarx](https://github.com/henriquemarx)
+* 💼 LinkedIn: [Henrique Marques](https://www.linkedin.com/in/henrique-de-azeredo-marques-27a879252/)
 
 ---
 
-⭐ Estou sempre estudando, desenvolvendo projetos e buscando evoluir na área de Dados.
+⭐ Estou sempre estudando, desenvolvendo projetos práticos e buscando evoluir profissionalmente na área de Dados.
